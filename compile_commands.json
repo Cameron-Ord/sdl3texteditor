@@ -1,0 +1,20 @@
+[
+ {
+  "directory": "C:\\Users\\camer\\editor",
+  "arguments": [
+   "x86_64-w64-mingw32-g++",
+   "-Wall",
+   "-Wextra",
+   "-Wpedantic",
+   "-O1",
+   "-std=c++20",
+   "-o",
+   "svte.exe",
+   "src/main.cpp",
+   "-lSDL3",
+   "-lSDL_ttf",
+   "-lm"
+  ],
+  "file": "src/main.cpp"
+ }
+]
